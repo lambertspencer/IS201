@@ -1,0 +1,26 @@
+body{
+    background-color:  rgb(103, 126, 107);
+}
+
+.anchor{
+    text-align: center;
+}
+
+.header{
+    font-size: large;
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+   
+}
+
+.common{
+    font-size: medium;
+    font-style: italic;
+}
+
+.image{
+    float: right;
+}
+
+
